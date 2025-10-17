@@ -83,14 +83,14 @@ TARGET_HANDLE = "target_X_username"  # Hedef Twitter kullanıcısını giriniz.
 Çalıştırmak için:
 python -m src.rpa
 
-#### Değerlendirme (Evaluation)
+### Değerlendirme (Evaluation)
 
 Oluşturulan yanıtların doğruluğunu ölçmek için:
 
 python -m src.eval_rag --file data/eval_dataset.json
 
 
-#### Crawler: Turkcell Destek Sayfaları
+### Crawler: Turkcell Destek Sayfaları
 
 turkcell_crawler/ dizini, Turkcell’in destek sayfalarındaki verileri otomatik olarak toplar.
 Her crawler script’i farklı bir kategoriye (örneğin Yurtdışı, Paket, Cihaz) odaklanır. 
@@ -98,7 +98,7 @@ Her crawler script’i farklı bir kategoriye (örneğin Yurtdışı, Paket, Cih
 Crawler ihtiyaç halinde farklı kurumların web sayfaları ile güncellenerek yeni veriler toplanabilir ve güncellenebilir.
 
 
-#### LangSmith Log ve Performans İzleme
+### LangSmith Log ve Performans İzleme
 
 Projeye gelen tüm istekler, LangSmith Log ekranı üzerinden takip edilmektedir.
 İlgili proje bağlantısı: https://eu.smith.langchain.com/o/b0d1345a-64df-4e4b-932e-e6a7f89f5432/projects/p/b9ec5a8b-a775-473e-88c4-b822edc6e052?timeModel=%7B"duration"%3A"7d"%7D
