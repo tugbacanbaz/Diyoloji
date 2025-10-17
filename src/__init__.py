@@ -1,0 +1,3 @@
+"""
+Diyoloji project package initialization.
+"""

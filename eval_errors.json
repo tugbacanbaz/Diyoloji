@@ -1,0 +1,82 @@
+[
+  {
+    "question": "wiyo müşteri hizmeleri numarası nedir?",
+    "gold": "Wiyo müşteri hizmetleri numarası 0 532 757 94 96'dır.",
+    "gold_category": "wiyo",
+    "routed_category": "wiyo",
+    "top_hit_url": "",
+    "top_hit_snippet": ""
+  },
+  {
+    "question": "Wiyo nedir ya da ne zaman kurulmuştur?",
+    "gold": "Wiyo, 2023 yılında “Mobil Yaşamın Sigortası O.” sloganıyla faaliyete geçen, Turkcell Dijital Sigorta A.Ş.’nin markasıdır. Büyük veri ve yapay zekâ temelli inovatif çözümlerle müşterilerine hızlı ve kişiselleştirilmiş sigorta hizmetleri sunmayı hedeflemektedir.",
+    "gold_category": "wiyo",
+    "routed_category": "wiyo",
+    "top_hit_url": "",
+    "top_hit_snippet": ""
+  },
+  {
+    "question": "Faturalı hattımı devrettim, bir sürü vergi ve ücret kesmişler! Bu nasıl iş Turkcell?",
+    "gold": "Merhaba, devir işlemlerinde haberleşme hizmetlerine ilişkin henüz faturalandırılmamış ücretlerle birlikte Yeni Tesis Özel İletişim Vergisi, TGM ruhsat ve kullanım ücretleri devralan kişi tarafından ödenir. Bu ücretler devralanın ilk faturasına yansır ve 18 Nisan 2025 itibarıyla azami devir ücreti 70,01 TL’dir. Bu tutara %20 KDV ve %10 ÖİV dâhildir.",
+    "gold_category": "abonelik-islemleri",
+    "routed_category": "abonelik-islemleri",
+    "top_hit_url": "",
+    "top_hit_snippet": ""
+  },
+  {
+    "question": "Turkcell hattım için sabit faturam yok, başka hangi belgeleri götürmem gerekiyor ya da illa elektrik faturası mı lazım?",
+    "gold": "Merhaba, Turkcell hattı işlemlerinizde sadece elektrik faturasıyla sınırlı değilsiniz.\nSabit faturanız yoksa son iki aya ait adınıza düzenlenmiş su, doğalgaz, kablo TV, internet (ADSL), ya da Turkcell, Vodafone, Türk Telekom gibi firmalara ait faturaları da kullanabilirsiniz.\nEğer bunlar da yoksa, e-fatura çıktısı, kredi kartı ekstresi, bankadan alınmış “Aslı gibidir” kaşeli dekont, araç ruhsatı veya kurum ödemesini gösteren makbuz da geçerli alternatifler arasındadır.\nYani elektrik faturası zorunlu değil; önemli olan belgenin sizin adınıza düzenlenmiş ve üzerinde adres bilgisinin bulunmasıdır.",
+    "gold_category": "abonelik-islemleri",
+    "routed_category": "abonelik-islemleri",
+    "top_hit_url": "",
+    "top_hit_snippet": ""
+  },
+  {
+    "question": "Artık Turkcell hattımı kullanmak istemiyorum, nefret ettim sizden iptal ettirmek istiyorum ama ne yapmalıyım?",
+    "gold": "Bunu duyduğumuza çok üzüldük, sizinle yolumuzu ayırmak istemeyiz fakat süreç konsuunda size yardım etmek isteriz. Turkcell Uygulaması’ndan Yardım > Evraklı Talepler > Hat İptali adımlarını izleyerek ya da kayıtlı e-posta adresinizden hatiptal@turkcell.com.tr adresine kimlik görselinizle birlikte talebinizi ileterek iptal başvurusu yapabilirsiniz. Dilerseniz e-Devlet üzerinden Abonelik Fesih Başvurusu sayfasını da kullanabilirsiniz.",
+    "gold_category": "abonelik-islemleri",
+    "routed_category": "abonelik-islemleri",
+    "top_hit_url": "",
+    "top_hit_snippet": ""
+  },
+  {
+    "question": "Hazır Kart’tan faturalıya geçerken ekstra bir ücret mi alıyorsunuz, neden ilk faturama borç yansıtılmış?",
+    "gold": "Faturalıya geçiş işlemi için özel bir ücret alınmaz, geçiş ücretsizdir. Ancak eğer Avans TL servisini kullanmışsanız ve hattınızda eksi bakiye varsa, bu tutar faturalıya geçişten sonra ilk faturanızda borç olarak görünür. Ayrıca, 17.12.2017 tarihli kanun gereği alınan Telsiz Kullanım Ücreti faturalı hatta geçiş sonrasında aylık 15 TL taksitlerle faturaya yansıtılır.",
+    "gold_category": "abonelik-islemleri",
+    "routed_category": "abonelik-islemleri",
+    "top_hit_url": "",
+    "top_hit_snippet": ""
+  },
+  {
+    "question": "Pişman oldum iptal ettirdiğim hattımı geri almak istiyorum",
+    "gold": "Elbette, hattınızı iptal ettirdiğiniz tarihten itibaren bir yıl boyunca aynı numarayla geri alabilirsiniz. Bu süre içinde hattınız tekrar satışa sunulmaz.",
+    "gold_category": "abonelik-islemleri",
+    "routed_category": "abonelik-islemleri",
+    "top_hit_url": "",
+    "top_hit_snippet": ""
+  },
+  {
+    "question": "Hattımı babamın üzerine devretmek istiyorum",
+    "gold": "Hattınızı babanıza devretmek için birlikte herhangi bir Turkcell Mağazası’na gitmeniz yeterli. Sizden kimliğiniz, babanızdan ise yeni abonelik için gerekli evraklar istenir.",
+    "gold_category": "abonelik-islemleri",
+    "routed_category": "abonelik-islemleri",
+    "top_hit_url": "",
+    "top_hit_snippet": ""
+  },
+  {
+    "question": "Babamın üzerine kayıtlı hattı kullanıyordum, maalesef vefat etti. Hattı kendi üzerime almak istiyorum, nasıl yapabilirim?",
+    "gold": "Öncelikle başınız sağ olsun. Hattı kendi üzerinize almak için veraset işlemi yapılması gerekiyor. Bunun için veraset ilamı (mirasçılık belgesi) ve kimliğinizle birlikte en yakın Turkcell Mağazası’na başvurmanız yeterli.",
+    "gold_category": "abonelik-islemleri",
+    "routed_category": "abonelik-islemleri",
+    "top_hit_url": "",
+    "top_hit_snippet": ""
+  },
+  {
+    "question": "Ben bir enayiyim galiba, sim kartımı kaybettim! Ne yapmam gerekiyor Turkcell, nasıl yenisini alacağım?",
+    "gold": "Hiç sorun değil, endişelenmeyin. Yeni sim kartınızı kolayca alabilirsiniz.\nKimliğinizle birlikte herhangi bir Turkcell Mağazası’na giderek yeni sim kartınızı hemen teslim alabilirsiniz.",
+    "gold_category": "abonelik-islemleri",
+    "routed_category": "abonelik-islemleri",
+    "top_hit_url": "",
+    "top_hit_snippet": ""
+  }
+]
