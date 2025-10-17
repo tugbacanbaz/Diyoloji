@@ -104,11 +104,11 @@ Projeye gelen tüm istekler, LangSmith Log ekranı üzerinden takip edilmektedir
 İlgili proje bağlantısı: https://eu.smith.langchain.com/o/b0d1345a-64df-4e4b-932e-e6a7f89f5432/projects/p/b9ec5a8b-a775-473e-88c4-b822edc6e052?timeModel=%7B"duration"%3A"7d"%7D
 
 LangSmith, uygulamamızın LLM tabanlı pipeline performansını uçtan uca gözlemlememize olanak sağlar. Bu platform üzerinden:
-	•	İstek Geçmişi (Request Logs): Her bir kullanıcı isteği detaylı şekilde kaydedilir. Böylece hangi sorguların işlendiğini, hangi araçların (tools) çağrıldığını ve hangi yanıtların üretildiğini adım adım görebiliriz.
-	•	Yanıt Süresi (Latency): Her istek için ortalama yanıt süresi ölçülür. Bu metrik, sistemin ölçeklenebilirliği ve kullanıcı deneyimi açısından kritik öneme sahiptir.
-	•	Token Kullanımı (Prompt / Completion Tokens): LLM çağrılarında harcanan toplam token miktarı takip edilir. Bu sayede maliyet optimizasyonu yapılabilir ve gereksiz token tüketimi önlenir.
-	•	Başarı Oranı (Success Rate): Yanıt üretilen toplam istekler arasındaki başarılı yürütme oranı izlenir. Olası hata veya başarısız sorgular anında tespit edilip analiz edilir.
-	•	Tool Çağrıları ve Performans: REACT agent mimarisinde kullanılan araçların çağrılma sıklığı, yanıt süreleri ve hata oranları gözlemlenir. Bu bilgiler, hangi tool’un darboğaz oluşturduğunu anlamamızı sağlar.
+- İstek Geçmişi (Request Logs): Her bir kullanıcı isteği detaylı şekilde kaydedilir. Böylece hangi sorguların işlendiğini, hangi araçların (tools) çağrıldığını ve hangi yanıtların üretildiğini adım adım görebiliriz.
+- Yanıt Süresi (Latency): Her istek için ortalama yanıt süresi ölçülür. Bu metrik, sistemin ölçeklenebilirliği ve kullanıcı deneyimi açısından kritik öneme sahiptir.
+- Token Kullanımı (Prompt / Completion Tokens): LLM çağrılarında harcanan toplam token miktarı takip edilir. Bu sayede maliyet optimizasyonu yapılabilir ve gereksiz token tüketimi önlenir.
+- Başarı Oranı (Success Rate): Yanıt üretilen toplam istekler arasındaki başarılı yürütme oranı izlenir. Olası hata veya başarısız sorgular anında tespit edilip analiz edilir.
+- Tool Çağrıları ve Performans: REACT agent mimarisinde kullanılan araçların çağrılma sıklığı, yanıt süreleri ve hata oranları gözlemlenir. Bu bilgiler, hangi tool’un darboğaz oluşturduğunu anlamamızı sağlar.
 
 
 
